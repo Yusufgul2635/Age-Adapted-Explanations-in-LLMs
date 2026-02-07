@@ -1,6 +1,4 @@
-# 02445_project
-
-#Age-Adapted Explanations in LLMs
+# Age-Adapted Explanations in LLMs
 
 Project for DTU course **02445 – Statistical Evaluation of AI and Data**.
 
